@@ -3,3 +3,5 @@
 запустить create_npy_files.py
 запустить UnetPredict.py
 запустить Unet.py
+
+Переписать пути внимательно в файлах
